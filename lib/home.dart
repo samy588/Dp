@@ -76,6 +76,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     var h = MediaQuery.of(context).size.height;
     var w = MediaQuery.of(context).size.width;
+    //Implementation of media query is not working for your project, kindly change with new code
     //Your media queries are unable to set height and width in this project the implementation is incorrect
     return Scaffold(
       appBar: AppBar(
